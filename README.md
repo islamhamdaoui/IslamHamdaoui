@@ -44,4 +44,10 @@ I'm a full stack developer crafting digital experiences from end to end. Passion
 | <a href="https://github.com/islamhamdaoui/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=islamhamdaoui&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hamdaoui's github stats" /></a> | <a href="https://github.com/islamhamdaoui/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamhamdaoui&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=islamhamdaoui&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=islamhamdaoui&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=islamhamdaoui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
