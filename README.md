@@ -30,8 +30,8 @@ I'm a full stack developer crafting digital experiences from end to end. Passion
 
 ### 📞 Contact
 
-📧 Contact: [islamhamdaoui2000@email.com](mailto:islamhamdaoui2000@email.com)
-
+📧 Email: [islamhamdaoui2000@email.com](mailto:islamhamdaoui2000@email.com)
+📞 WhatsApp: +213-778-96-11-08
 
 #
 
