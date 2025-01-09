@@ -52,7 +52,7 @@ Whatsapp : [+213-778-96-11-08](https://wa.me/qr/UFTOHT53DRO3F1)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=islamhamdaoui&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=islamhamdaoui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
