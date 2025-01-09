@@ -54,7 +54,7 @@ Whatsapp : [+213-778-96-11-08](https://wa.me/qr/UFTOHT53DRO3F1)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=islamhamdaoui&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=islamhamdaoui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=islamhamdaoui&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islamhamdaoui&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&theme=tokyonight)
 
 
 
