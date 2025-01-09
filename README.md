@@ -55,5 +55,15 @@ Whatsapp : [+213-778-96-11-08](https://wa.me/qr/UFTOHT53DRO3F1)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=islamhamdaoui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+# Hello, I'm Islam Hamdaoui 👋
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islamhamdaoui&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=islamhamdaoui&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=islamhamdaoui&theme=radical)
+
+<!-- Contribution Graph -->
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=islamhamdaoui&theme=dracula)
 
 
